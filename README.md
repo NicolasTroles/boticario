@@ -29,3 +29,5 @@ Clone o projeto para sua máquina, acesse a pasta do repositório clonado pelo s
 - Exibição de rotas com base em autenticação de usuário.
 - Componentização.
 
+# ;D
+<img width="200" src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" />
