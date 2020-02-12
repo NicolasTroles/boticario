@@ -4,12 +4,12 @@
 # Desafio
 #### O que foi implementado
 
-• Tela de login para informar e-mail e senha com validação;
-• Tela de cadastro de compras onde deverá ser informado o código, valor e data com validações;
-• Tela de listagem das compras cadastradas exibindo as informações de código da compra, valor, data, % de cashback aplicado, valor do cashback e status do cadastro;
-• Opções para editar e excluir uma compra caso ele esteja “Em Validação”;
-• Valor de cashback exibido na tela;
-• Tela de informações do sistema com algumas de minhas informações.
+- Tela de login para informar e-mail e senha com validação;
+- Tela de cadastro de compras onde deverá ser informado o código, valor e data com validações;
+- Tela de listagem das compras cadastradas exibindo as informações de código da compra, valor, data, % de cashback aplicado, valor do cashback e status do cadastro;
+- Opções para editar e excluir uma compra caso ele esteja “Em Validação”;
+- Valor de cashback exibido na tela;
+- Tela de informações do sistema com algumas de minhas informações.
 
 # Como rodar
 Clone o projeto para sua máquina, acesse a pasta do repositório clonado pelo seu terminal e execute `npm install` ou `yarn` para instalar os pacotes npm. Em seguida execute `yarn start`.
