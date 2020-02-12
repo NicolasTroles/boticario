@@ -1,5 +1,4 @@
-![](https://logodownload.org/wp-content/uploads/2014/10/o-boticario-logo-1.png)
-
+<img width="300" src="https://logodownload.org/wp-content/uploads/2014/10/o-boticario-logo-1.png" />
 
 # Desafio
 #### O que foi implementado
@@ -30,5 +29,3 @@ Clone o projeto para sua máquina, acesse a pasta do repositório clonado pelo s
 - Exibição de rotas com base em autenticação de usuário.
 - Componentização.
 
-# Aproveite
-<img width="200" src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" />
