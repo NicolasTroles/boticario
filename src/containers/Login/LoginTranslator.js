@@ -1,0 +1,51 @@
+const LoginEN = {
+    Login: {
+        'FORGOT_PASSWORD': "Forgot password?",
+        'NOT_REGISTERED': "I'm not registered?",
+        'REGISTER_TITLE': 'Register',
+        'BACK': 'Voltar',
+        'FILL_REGISTER': 'Fill in your details below to registero',
+        'FULL_NAME': 'Full name',
+        'TYPE_FULL_NAME': 'Type your full name...',
+        'TYPE_EMAIL': 'Type your email...',
+        'TYPE_PASSWORD': 'Type your password...',
+        'TYPE_CPF': 'Type your CPF...',
+        'PASSWORD': 'Password',
+        'REGISTER': 'Register',
+        'SUCCESS_REGISTER': 'Your registration was successful!',
+        'FAILURE_REGISTER': 'Fill in all the fields',
+        'SUCCESS_LOGIN': 'Login successfully!',
+        'EMAIL_ALREADY_REGISTERED': 'This email or CPF has already been registered',
+        'CLICK_HERE': 'Click here',
+        'LOGIN': 'Login',
+        'USER_NOT_REGISTERED': 'User not registered',
+        'INCORRECT_PASSWORD': 'Incorrect password',
+    },
+};
+
+const LoginPT = {
+    Login: {
+        'FORGOT_PASSWORD': "Esqueceu a senha?",
+        'NOT_REGISTERED': "Não possui cadastro?",
+        'REGISTER_TITLE': 'Faça seu cadastro',
+        'BACK': 'Voltar',
+        'FILL_REGISTER': 'Preencha seus dados abaixo para realizar seu cadastro',
+        'FULL_NAME': 'Nome completo',
+        'TYPE_FULL_NAME': 'Digite seu nome completo...',
+        'TYPE_EMAIL': 'Digite seu email...',
+        'TYPE_PASSWORD': 'Digite sua senha...',
+        'TYPE_CPF': 'Digite o seu CPF...',
+        'PASSWORD': 'Senha',
+        'REGISTER': 'Registrar',
+        'SUCCESS_REGISTER': 'Seu cadastro foi realizado com sucesso!',
+        'FAILURE_REGISTER': 'Preencha todos os seus dados',
+        'SUCCESS_LOGIN': 'Login realizado com sucesso!',
+        'EMAIL_ALREADY_REGISTERED': 'Este email ou CPF já foi cadastrado',
+        'CLICK_HERE': 'Clique aqui',
+        'LOGIN': 'Entrar',
+        'USER_NOT_REGISTERED': 'Usuario não cadastrado',
+        'INCORRECT_PASSWORD': 'Senha incorreta',
+    },
+};
+
+export { LoginPT, LoginEN };
